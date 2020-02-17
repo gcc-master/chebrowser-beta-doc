@@ -1,6 +1,6 @@
 Che browser пользовательская документация
 =========================================
-web site: beta.chebrowser.site  
+web site: https://beta.chebrowser.site  
 ver: 0.2.2
 
 - profiles
