@@ -13,5 +13,10 @@
 | telegram: `@chebrowser <https://t.me/chebrowser>`_
 | jabber: `gcc@bombolenath.site`
 
+|
+| **Поддержка**
+| telegram: `@chesupport <https://t.me/chesupport>`_
+| jabber: `chesupport@bombolenath.site`
+
 
 .. include:: yandex-metrika.rst
