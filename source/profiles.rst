@@ -239,6 +239,8 @@ Advanced Options
 .. figure:: images/Profile-General-Advanced-Options.png
 
 
+.. _profiles-time-shifting:
+
 Time shifting
 ~~~~~~~~~~~~~
 **Time shifting** - это сразу несколько мощнейших технологий позволяющих управлять тайминговым профилем.
